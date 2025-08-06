@@ -26,10 +26,10 @@ Class 2 - 12.500%
 Class 3 - 11.181%
    
 Class 4 - 10.762%
-------------------------------------------------------------------
+
 
 Places for inputs if you want to:
-
+----------------------------------------------------------------
 1. The "tax_rates" parameter could be redefined for every tax year
 
 2. The "today" parameter could be manually changed to a specific cutoff date
